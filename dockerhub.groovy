@@ -5,4 +5,3 @@
   tasks:
   - name: building docker image
     command: docker build -t flask .
-    
